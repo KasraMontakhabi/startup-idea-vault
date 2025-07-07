@@ -1,6 +1,20 @@
 # StartupIdeaVault
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1de74bb9-7df5-4919-a594-e94710af4f61" width="220" alt="Subscription details modal"></td>
+    <td><img src="https://github.com/user-attachments/assets/9baf8d93-80a5-45a0-8351-544b644419b3"  width="220" alt="Add subscription form"></td>
+    <td><img src="https://github.com/user-attachments/assets/9a27b500-9750-45fe-8120-4e3af5f533a9"  width="220" alt="Trial watchdog list"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/56719b97-c6fd-4d1b-a665-8e810d34d15f" width="220" alt="Dashboard – calendar view"></td>
+    <td><img src="https://github.com/user-attachments/assets/29cf8bf9-047f-4cab-b08c-2a511d24c75b" width="220" alt="Pie-chart spending breakdown"></td>
+    <td><img src="https://github.com/user-attachments/assets/1bce364a-d292-43c0-ac11-9d57548b4b0b" width="220" alt="Settings – theme toggle"></td>
+  </tr>
+</table>
+
 A clean and intuitive Flutter application for showcasing, managing, and exploring creative startup ideas. This app provides a comprehensive platform for entrepreneurs and innovators to store, rate, and discover startup concepts.
+
 
 ## Features
 
