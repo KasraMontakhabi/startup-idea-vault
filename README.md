@@ -37,14 +37,6 @@ A clean and intuitive Flutter application for showcasing, managing, and explorin
 - **Local Storage**: Persistent data using SharedPreferences
 - **Cross-Platform**: Supports iOS, Android, Web, Windows, macOS, and Linux
 
-## Screenshots
-
-The app includes several key screens:
-- **Home Screen**: Browse all startup ideas in a card-based layout
-- **Add Idea Screen**: Create new ideas with ratings and custom icons
-- **Random Idea Screen**: Discover ideas with an animated spinner
-- **Idea Detail Screen**: View comprehensive information about each idea
-- **Login Screen**: Simple authentication interface
 
 ## Tech Stack
 
